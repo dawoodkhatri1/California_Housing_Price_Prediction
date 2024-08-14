@@ -48,3 +48,7 @@ The output of the code look like this:
 ![Capture 2](https://github.com/user-attachments/assets/64c48fd8-9a40-4173-a531-9a222789195c)
 
 ![Capture 3](https://github.com/user-attachments/assets/ce5654e3-a715-431f-a4ed-85a42e24c166)
+
+## License
+
+[MIT License](LICENSE)
